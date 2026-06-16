@@ -1,6 +1,6 @@
 # IPChecker
 
-IPChecker is a program that is related to IP Stuff. This program is lightweight, cross-platform terminal utility written in Python for network diagnostics, subnet device discovery, and localized routing configuration. It operates seamlessly across Windows, Linux, and macOS environments.
+A lightweight, cross-platform terminal utility written in Python for network diagnostics, subnet device discovery, and localized routing configuration. It operates seamlessly across Windows, Linux, and macOS environments.
 
 ---
 
@@ -25,9 +25,12 @@ Before running the script, ensure you have Python 3.x installed on your computer
 
 ---
 
-### 💻 Installation & Setup
+### 💻 Local Setup
 
-1. **Clone or Download the Repository:**
+1. **Save the Script:**
+   Save the Python source code into a local file named `IPChecker.py` in a secure directory on your machine.
+
+2. **Run the Script:**
+   Open your terminal or command prompt, navigate to the folder where you saved the file, and launch it directly using Python:
    ```bash
-   git clone [https://github.com/DuckyCashy/IPChecker.git](https://github.com/DuckyCashy/IPChecker.git)
-   cd IPChecker
+   python IPChecker.py
