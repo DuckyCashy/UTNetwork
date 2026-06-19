@@ -1,4 +1,4 @@
-# Network Utility CLI Tool
+# UTNetwork CLI Tool
 
 A multi-threaded network diagnostics, scanning, and identification utility built natively in Python. This tool gives you insight into your local subnet architecture, profiles active devices by operating system type, and provides quick administrative configuration overrides for network adapters. (Formerly IPChecker)
 
@@ -6,7 +6,7 @@ A multi-threaded network diagnostics, scanning, and identification utility built
 
 ## 🚀 Getting Started & Prerequisites
 
-To utilize all features of Network Utility, it must be executed inside a terminal session with administrative permissions.
+To utilize all features of UTNetwork, it must be executed inside a terminal session with administrative permissions.
 
 * **Windows:** Right-click your Terminal/Command Prompt and select **"Run as Administrator"**.
 * **Linux/macOS:** Run the script prefixed with `sudo` (e.g., `sudo python ip_network.py`).
